@@ -11,12 +11,6 @@ Dark Mode: On
 ![Screenshots](/snapshots/10.png)
 Dark Mode is enabled or disabled based on whether the system's theme is dark or light.
 
-## Configuration Steps
-1. Cloning the repository:
-
-```
-$ git clone https://github.com/ahmedgulabkhan/GroupChatApp.git
-```
 
 2. Open the project and install dependencies (using terminal):
 
